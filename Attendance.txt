@@ -1,1 +1,4 @@
-Create file notepad  in your falder java Drive D : Attendance.txt
+StudentID:2213111061
+Fullname(in English): Napachol Karnchanaponlert
+AKA : 
+ClassDetail:Control Statement
