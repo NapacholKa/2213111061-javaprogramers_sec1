@@ -1,0 +1,1 @@
+Create file notepad  in your falder java Drive D : Attendance.txt
