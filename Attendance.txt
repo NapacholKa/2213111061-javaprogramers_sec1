@@ -1,4 +1,4 @@
 StudentID:2213111061
 Fullname(in English): Napachol Karnchanaponlert
-AKA : 
-ClassDetail:Control Statement
+AKA : NapacholKa
+ClassDetail:String Method
