@@ -23,7 +23,7 @@ public class MusicWorldApp {
 		JOptionPane.showMessageDialog(null, "Summary of the transaction:"+
 		"\n\nCD ID: "+cdId+
 		"\nCD Title: "+cdTitle
-		+("\nCD Unit Price: "+ frm.format(cdprice))+
+		+("\nCD Unit Price: $"+ frm.format(cdprice))+
 				"\nCD Quantity: "+cdquantity+"\n\nSubtotal: $"
 				+frm1.format(cdSubtotal)+"\nTax rate: "+frm.format((TAX_RATE)*100)+"%"
 				+"\nTotal: "+"$"+cdTotal+"\n\nEnd of Program");
