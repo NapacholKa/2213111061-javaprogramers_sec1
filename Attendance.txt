@@ -1,4 +1,4 @@
 StudentID:2213111061
 Fullname(in English): Napachol Karnchanaponlert
 AKA : NapacholKa
-ClassDetail:String Method
+ClassDetail:Array in Java
