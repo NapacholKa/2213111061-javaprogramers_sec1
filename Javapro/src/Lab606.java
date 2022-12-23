@@ -10,16 +10,17 @@ public class Lab606 {
 		{			
 			inputNum = Integer.parseInt( JOptionPane.showInputDialog("Input index of array, again :"));
 		}
-		if(inputNum>1||inputNum<nums.length)JOptionPane.showMessageDialog(null, "Current data,num["+(inputNum)+
+		(inputNum>1||inputNum<nums.length)
+		?JOptionPane.showMessageDialog(null, "Current data,num["+(inputNum)+
 				"] is "+currentData(nums,inputNum)
 				+"\nPrevious data, num["+(inputNum-1)+"] is "+prevData(nums,inputNum)
-				+"\nNext data, nums["+(inputNum+1)+"] is "+nextData(nums,inputNum));
-		
-		else if (inputNum==0)JOptionPane.showMessageDialog(null, "Current data,num["+(inputNum)+"] is "
+				+"\nNext data, nums["+(inputNum+1)+"] is "+nextData(nums,inputNum))
+				(inputNum==0)
+				?JOptionPane.showMessageDialog(null, "Current data,num["+(inputNum)+"] is "
 		+currentData(nums,inputNum)
-				+"\nNo previous data"+"\nNext data, nums["+(inputNum+1)+"] is "+nextData(nums,inputNum));
-		
-		else if(inputNum==(nums.length-1))JOptionPane.showMessageDialog(null, "Current data,num["+(inputNum)+"] is "
+				+"\nNo previous data"+"\nNext data, nums["+(inputNum+1)+"] is "+nextData(nums,inputNum))
+	           :(inputNum==(nums.length-1))
+	           ?JOptionPane.showMessageDialog(null, "Current data,num["+(inputNum)+"] is "
 		+currentData(nums,inputNum)
 				+"\nPrevious data, num["+(inputNum-1)+"] is "+prevData(nums,inputNum)
 				+"\nNo next dayta");
