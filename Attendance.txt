@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 StudentID:2213111061
 Fullname(in English): Napachol Karnchanaponlert
 AKA : NapacholKa
+=======
+StudentID:2213111061
+Fullname(in English): Napachol Karnchanaponlert
+AKA : NapacholKa
+>>>>>>> ba2dd9e5d287f8d5218dc8e7388f6523cb88ba43
 ClassDetail:Practice
