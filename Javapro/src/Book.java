@@ -34,7 +34,7 @@ public class Book {
 	}
 
 	public String toString() {
-		return "Title : " + title + " published for " + getTotalYear() + " year " + "(" + price + "baht.)";
+		return "Title : " + title + " published for " + getTotalYear() + " year " + "(" + price + " baht.)";
 	}
 
 }
