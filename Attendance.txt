@@ -2,4 +2,4 @@
 StudentID:2213111061
 Fullname(in English): Napachol Karnchanaponlert
 AKA : NapacholKa
-ClassDetail:Practice
+ClassDetail:Abstract & Interface
