@@ -1,5 +1,5 @@
-
+Day 02-16-2023
 StudentID:2213111061
 Fullname(in English): Napachol Karnchanaponlert
 AKA : NapacholKa
-ClassDetail:Abstract & Interface
+ClassDetail: File (Write / Read)
